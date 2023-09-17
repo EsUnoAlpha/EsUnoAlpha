@@ -10,11 +10,9 @@
 - 🚀 I'm constantly learning and exploring new technologies and security methods.
 
 ## Tools and Technologies
-- ![Flask Icon](flask-icon.png) 
-- ![SQLite Icon](sqlite-icon.png) 
-- ![PostgreSQL Icon](postgresql-icon.png) 
-- ![Python Icon](python-icon.png)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Thanks
-
-Thanks for visiting my GitHub profile! I hope you find something interesting in my projects. If you have any comments or suggestions, please don't hesitate to share them.
