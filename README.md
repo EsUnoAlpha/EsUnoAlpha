@@ -1,6 +1,6 @@
 <h1>Nice to see you here, I'm <a href="https://t.me/EsUnoAlpha" target="_blank">Sasha</a></h1>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+security+student+&+metal+fan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+security+student+/%/+metal+fan" alt="Typing SVG" /></a>
 
 ## About Me
 
