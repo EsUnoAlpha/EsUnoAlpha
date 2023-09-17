@@ -5,9 +5,9 @@
 
 ## About Me
 
-- 🌱 I'm a student, studying in the field of Information Security.
-- 💼 I'm interested in cybersecurity and data protection.
-- 🚀 I'm constantly learning and exploring new technologies and security methods.
+- 🌱 I am a student at IT-College "Sirius" majoring in Information Security
+- 💻 In addition to studying information security, I am learning programming on Python
+- 🎵 In my free time, I enjoy playing and creating music. 
 
 ## Tools and Technologies
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
