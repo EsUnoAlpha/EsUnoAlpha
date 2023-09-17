@@ -6,7 +6,7 @@
 
 - 🌱 I am a student at IT-College "Sirius" majoring in Information Security
 - 💻 In addition to studying information security, I am learning programming on Python
-- 🎵 In my free time, I enjoy playing and creating music. 
+- 🎵 In my free time, I enjoy playing and creating music (check link in the profile description plz)
 
 ## Tools and Technologies
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
