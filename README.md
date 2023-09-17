@@ -2,7 +2,6 @@
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+security+student" alt="Typing SVG" /></a>
 
-
 ## About Me
 
 - 🌱 I am a student at IT-College "Sirius" majoring in Information Security
